@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-.header {
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -132,6 +132,24 @@ p {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+}
+
+.section1 {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.section1 img {
+    max-height: 200px;
+}
+
+.section1 h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
 .search-engine-optimization {
